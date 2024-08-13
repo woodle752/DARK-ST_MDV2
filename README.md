@@ -39,7 +39,7 @@
 
 1. **Première étape** : Obtenez votre [`CODE DE PAIRAGE`](https://byte-session.vercel.app/).
 2. **Ensuite** : Allez dans WhatsApp > Trois points > Appareils connectés.
-3. **Cliquez sur** [`FORK`](https://github.com/Dark-S-TEN/DARK-ST_MDV2) pour cloner le projet.
+3. **Cliquez sur** [`FORK`](https://github.com/Dark-S-TEN/DARK-ST_MDV2/fork) pour cloner le projet.
 4. **Le bot peut être déployé sur GitHub.**
 
 ## 🔗 Méthodes de connexion 🔗
