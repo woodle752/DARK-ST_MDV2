@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/jObU3e5.gif" alt="Cool Animation" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://telegra.ph/file/3e1d82ab139d29975cad4.jpg" alt="Image Visuelle" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
 
-<strong>🔥 Note importante : Le déploiement sur HEROKU n'est pas disponible pour l'instant. 🔥</strong>
+<strong>🔥 Note importante : Ce bot peut être déployé sur GitHub Gratuitement,  ne pas déployer sur Render pour l'instant. 🔥</strong>
 
 <p align="center">
   <a href="https://wa.me/50931461936?text=Hey%20ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜" target="_blank">
@@ -40,7 +40,7 @@
 1. **Première étape** : Obtenez votre [`CODE DE PAIRAGE`](https://byte-session.vercel.app/).
 2. **Ensuite** : Allez dans WhatsApp > Trois points > Appareils connectés.
 3. **Cliquez sur** [`FORK`](https://github.com/Sandro-sten/DRK-ST-MD-/fork) pour cloner le projet.
-4. **Le déploiement sur HEROKU n'est pas disponible pour l'instant.**
+4. **Le bot peut être déployé sur GitHub.**
 
 ## 🔗 Méthodes de connexion 🔗
 
