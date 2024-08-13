@@ -18,7 +18,7 @@ global.gurl = process.env.GURL || "https://chat.whatsapp.com/Hxduja6rDRh30gSNeUN
 global.website = process.env.GURL || "https://chat.whatsapp.com/Hxduja6rDRh30gSNeUNyfm";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3e1d82ab139d29975cad4.jpg";
 global.devs = "50931461936";
-global.sudo = process.env.SUDO || " ";
+global.sudo = process.env.SUDO || "50931461936";
 global.owner = process.env.OWNER_NUMBER || "50931461936";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
@@ -27,12 +27,12 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "";
+global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/994a791a5a601fe82d480.jpg";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
-global.read_status = process.env.AUTO_READ_STATUS || "false";
+global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "all";
 global.read_status_from = process.env.READ_STATUS_FROM || "all";
@@ -75,7 +75,7 @@ module.exports = {
   menu: process.env.MENU || "",
 
   //Prefix variable
-  HANDLERS: process.env.PREFIX || ",",
+  HANDLERS: process.env.PREFIX || "!",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "*Powered By 𝙎-𝙏𝞢𝞜*",
