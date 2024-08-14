@@ -1,5 +1,5 @@
 {
-   "name": "byte-md",
+   "name": "dark-s-ten",
    "version": "1.5.0",
    "description": "World's Simplest Bot created by Dark-S-TEN",
    "main": "talkdrove.js",
@@ -7,8 +7,8 @@
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Dark-S-TEN || node .",
       "Dark-S-TEN": "pm2 start . --deep-monitoring --attach --name Dark-S-TEN || node .",
-      "start": "pm2 start . --attach --name Byte",
-      "stop": "pm2 stop Byte",
+      "start": "pm2 start . --attach --name dark",
+      "stop": "pm2 stop dark",
       "heroku-postbuild": "git clone https://github.com/Dark-S-TEN/DARK-ST_MDV2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install --y",
       "fis-heroku-postbuild": "git clone https://github.com/Dark-S-TEN/DARK-ST_MDV2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
